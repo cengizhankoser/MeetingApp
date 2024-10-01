@@ -1,5 +1,6 @@
 F:\vscode\MeetingApp\bin\Debug\net7.0\appsettings.Development.json
 F:\vscode\MeetingApp\bin\Debug\net7.0\appsettings.json
+F:\vscode\MeetingApp\bin\Debug\net7.0\libman.json
 F:\vscode\MeetingApp\bin\Debug\net7.0\MeetingApp.exe
 F:\vscode\MeetingApp\bin\Debug\net7.0\MeetingApp.deps.json
 F:\vscode\MeetingApp\bin\Debug\net7.0\MeetingApp.runtimeconfig.json
@@ -11,6 +12,8 @@ F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.AssemblyInfoInputs.cache
 F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.AssemblyInfo.cs
 F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.csproj.CoreCompileInputs.cache
 F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.MvcApplicationPartsAssemblyInfo.cache
+F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cache
+F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cs
 F:\vscode\MeetingApp\obj\Debug\net7.0\staticwebassets\msbuild.MeetingApp.Microsoft.AspNetCore.StaticWebAssets.props
 F:\vscode\MeetingApp\obj\Debug\net7.0\staticwebassets\msbuild.build.MeetingApp.props
 F:\vscode\MeetingApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MeetingApp.props
@@ -24,6 +27,3 @@ F:\vscode\MeetingApp\obj\Debug\net7.0\refint\MeetingApp.dll
 F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.pdb
 F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.genruntimeconfig.cache
 F:\vscode\MeetingApp\obj\Debug\net7.0\ref\MeetingApp.dll
-F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cache
-F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.RazorAssemblyInfo.cs
-F:\vscode\MeetingApp\bin\Debug\net7.0\libman.json

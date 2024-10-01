@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\vscode\\MeetingApp\\MeetingApp.csproj",
+      "projectUniqueName": "f:\\vscode\\MeetingApp\\MeetingApp.csproj",
       "projectName": "MeetingApp",
-      "projectPath": "F:\\vscode\\MeetingApp\\MeetingApp.csproj",
+      "projectPath": "f:\\vscode\\MeetingApp\\MeetingApp.csproj",
       "packagesPath": "C:\\Users\\fatih\\.nuget\\packages\\",
-      "outputPath": "F:\\vscode\\MeetingApp\\obj\\",
+      "outputPath": "f:\\vscode\\MeetingApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fatih\\AppData\\Roaming\\NuGet\\NuGet.Config"
