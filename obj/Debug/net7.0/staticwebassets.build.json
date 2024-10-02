@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "4E48gNYWqZeNA5TE7g4HoQFvP+4IYLOzN+OkNNn0Zag=",
+  "Hash": "kUGKY+k2UWn0aycHF+4oYg/HhQmdPjI8cGzdl8A7D38=",
   "Source": "MeetingApp",
   "BasePath": "_content/MeetingApp",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "MeetingApp\\wwwroot",
+      "Source": "MeetingApp",
+      "ContentRoot": "F:\\vscode\\MeetingApp\\wwwroot\\",
+      "BasePath": "_content/MeetingApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\vscode\\MeetingApp\\wwwroot\\css\\styles.css",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\vscode\\MeetingApp\\wwwroot\\",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
 }

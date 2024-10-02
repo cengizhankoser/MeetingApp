@@ -27,3 +27,4 @@ F:\vscode\MeetingApp\obj\Debug\net7.0\refint\MeetingApp.dll
 F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.pdb
 F:\vscode\MeetingApp\obj\Debug\net7.0\MeetingApp.genruntimeconfig.cache
 F:\vscode\MeetingApp\obj\Debug\net7.0\ref\MeetingApp.dll
+F:\vscode\MeetingApp\bin\Debug\net7.0\MeetingApp.staticwebassets.runtime.json
